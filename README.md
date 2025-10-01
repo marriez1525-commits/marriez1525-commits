@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Maryam👋
+
+🌱 BSCS (AI) Student | 💻 Passionate about Programming & Databases | 🤖 Robotics Enthusastic 
+
 
 <!--
 **marriez1525-commits/marriez1525-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
